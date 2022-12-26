@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "test",
+      "password": "test"
+    },
+    {
+      "id": 2,
+      "username": "ali",
+      "password": "mypass13!"
+    },
+    {
+      "id": 3,
+      "username": "rehman",
+      "password": "mypass113!"
+    },
+    {
+      "username": "rehn",
+      "password": "mypass113!",
+      "id": 4
+    },
+    {
+      "username": "rsex",
+      "password": "mypass",
+      "id": 5
+    },
+    {
+      "username": "true",
+      "password": "mypass113!",
+      "id": 6
+    },
+    {
+      "username": "pp",
+      "password": "pop",
+      "confirmPassword": "pop",
+      "id": 7
+    },
+    {
+      "username": "user",
+      "password": "userhere",
+      "confirmPassword": "userhere",
+      "id": 8
+    },
+    {
+      "username": "test",
+      "password": "test",
+      "confirmPassword": "test",
+      "id": 9
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "murad"
+    },
+    {
+      "id": 2,
+      "name": "shahid"
+    },
+    {
+      "id": 3,
+      "name": "ali"
+    },
+    {
+      "id": 3,
+      "name": "mukhtarya"
+    }
+  ]
+}
